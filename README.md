@@ -2,6 +2,8 @@
 # Unity_2D_Flappy_Seal
 물개 게임 각도 조절과 씬 전환 등 
 
+## 1. 물개말고 다른 캐릭터로도 해보자
+
 
 ![Ready](https://user-images.githubusercontent.com/54494793/125163464-41e27100-e1c8-11eb-92c4-85703c1da073.png)
 
